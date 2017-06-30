@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test Application</string>
+    <string name="name">name</string>
+    <string name="app_balance">balance</string>
+    <string name="app_login">login</string>
+    <string name="profile_details">PROFILE DETAILS</string>
+</resources>
